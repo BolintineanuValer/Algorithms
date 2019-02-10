@@ -1,0 +1,9 @@
+﻿  BasesConversion.cpp
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(62): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(65): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(68): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(71): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(77): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\bolintineanu valer\desktop\github projects\c++\algorithms\basesconversion\basesconversion\basesconversion.cpp(81): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  BasesConversion.vcxproj -> C:\Users\Bolintineanu Valer\Desktop\Github Projects\C++\Algorithms\BasesConversion\Debug\BasesConversion.exe
